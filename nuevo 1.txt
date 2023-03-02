@@ -1,8 +1,3 @@
 <html>
-
-paso 1 desde otra-rama
-
-
-paso2 en remoto
-
+subiendo cambios desde la rama: dev-rama-remota
 </html>
