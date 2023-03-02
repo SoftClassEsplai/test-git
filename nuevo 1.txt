@@ -1,13 +1,8 @@
 <html>
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 paso 1
-paso 2
-python 3
-=======
 
->>>>>>> parent of 49b1ed0 (paso 1)
-=======
 
->>>>>>> parent of 49b1ed0 (paso 1)
+
+
 </html>
